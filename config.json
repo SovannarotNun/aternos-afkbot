@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
+	"ip":"sovannarot1.aternos.me",
+	"port": "26375",
 	"name": "BOT_NAME"
 }
